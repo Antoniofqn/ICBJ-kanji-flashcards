@@ -2,7 +2,7 @@ const express = require('express');
 const sequelize = require('./config/database');
 const flashcardsRoutes = require('./routes/flashcard_routes');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 app.use(express.json());
 app.use(flashcardsRoutes);
