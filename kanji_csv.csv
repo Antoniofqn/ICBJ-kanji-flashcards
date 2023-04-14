@@ -1,0 +1,873 @@
+front;back;level;category;type
+一;イチ / イツ / ひと - / ひと。つ / Um;B3;;Kanji
+二;に / ふた / ふたつ / Dois;B3;;Kanji
+三;さん / みつ / みっつ / Três ;B3;;Kanji
+四;し / よん / よつ / よっつ / Quatro;B3;;Kanji
+五;ご / いつ / Cinco;B3;;Kanji
+六;ろく / Seis;B3;;Kanji
+七;しち / なな / Sete;B3;;Kanji
+八;はち / やつ / Oito;B3;;Kanji
+九;きゅう / Nove;B3;;Kanji
+十;じゅう / Dez;B3;;Kanji
+百;ひゃく / Cem;B3;;Kanji
+千;せん / Mil;B3;;Kanji
+万;まん / Dez Mil;B3;;Kanji
+円;えん / まる(い) / Iene - Círculo ;B3;;Kanji
+年;ネン / とし / Ano - Idade;B3;;Kanji
+日;ひ /び / か / ニチ / ジツ / Dia - Sol;B3;;Kanji
+月;つき / がつ  / げつ / Lua - Mês;B3;;Kanji
+木;き / モク / ボク / Árvore ;B3;;Kanji
+山;やま / サン / Montanha;B3;;Kanji
+川;かわ / セン / Rio;B3;;Kanji
+田;た / デン / Arrozal;B3;;Kanji
+人;ひと / じん / ニン / Pessoa;B3;;Kanji
+口;くち / コウ / ク / Boca;B3;;Kanji
+車;くるま / しゃ / Carro;B3;;Kanji
+門;かど / もん / Portão ;B3;;Kanji
+火;ひ / カ / Fogo;B3;;Kanji
+水;みず / スイ / Água ;B3;;Kanji
+金;かね / きん / Dinheiro - Ouro;B3;;Kanji
+土;つち / ど / と / Terra;B3;;Kanji
+子;こ / し / Criança;B3;;Kanji
+女;おんな / じょ / Mulher;B3;;Kanji
+学;まな / がく / Aprender;B3;;Kanji
+生;せい / しょう / い(きる) / う(まれる) / Viver - Nascer;B3;;Kanji
+先;さき / せん / Antes - Ponta;B3;;Kanji
+私;わたし / わたくし / し / Eu - Privativo;B3;;Kanji
+上;うえ / ジョウ / Em cima - Acima;B3;;Kanji
+下;した / カ / ゲ / Embaixo;B3;;Kanji
+中;なか / チュウ / じゅう / Dentro - Meio - Centro;B3;;Kanji
+大;おお(きい) / ダイ / タイ / Grande;B3;;Kanji
+小;ちい(さい) / ショウ / お / こ / Pequeno;B3;;Kanji
+本;ほん / Livro;B3;;Kanji
+半;なか(ば) / はん / Metade - Meio - Meados;B3;;Kanji
+分;フン / ブン / ブ / わ(かる) / わ(ける) / Dividir - Entender - Metade;B3;;Kanji
+力;ちから / リョク / リキ / Força ;B3;;Kanji
+何;なに / なん / O quê? ;B3;;Kanji
+明;あか(るい) / メイ / ミュウ / Claro - Alegre;B3;;Kanji
+休;やす(む) / キュウ / Descanso - Faltar;B3;;Kanji
+体;からだ / タイ / Corpo;B3;;Kanji
+好;す(き) / コウ / Gostar - Preferido;B3;;Kanji
+男;おとこ / ダン / ナン / Homem;B3;;Kanji
+林;はやし / リン / Bosque;B3;;Kanji
+森;もり / シン / Floresta;B3;;Kanji
+間;あいだ(ま) / カン / ケン / Intervalo - Espaço - Distância - Entre;B3;;Kanji
+畑;はたけ / は / Horta;B3;;Kanji
+岩;いわ / ガン / Rocha;B3;;Kanji
+目;め / モク/ Olho ;B4;;Kanji
+耳;みみ / ジ / Orelha;B4;;Kanji
+手;て / シュ / Mão ;B4;;Kanji
+足;あし / ソク / た(す) / た(りる) / Pé - Perna / Acrescentar / Ser suficiente;B4;;Kanji
+雨;あめ / あま / Chuva;B4;;Kanji
+竹;たけ / チク / Bambu;B4;;Kanji
+米;こめ / ベイ / マイ / Arroz;B4;;Kanji
+貝;かい / バイ / Concha - Marisco;B4;;Kanji
+石;いし / セキ / Pedra ;B4;;Kanji
+糸;いと / シ / Fio - Linha;B4;;Kanji
+花;はな / カ / はな(び) / Flor / Fogos de Artifício ;B4;;Kanji
+茶;チャ / サ / Chá;B4;;Kanji
+肉;にく/ Carne ;B4;;Kanji
+文;ブン / モン / (ふみ) / Frase;B4;;Kanji
+字;じ / Letra;B4;;Kanji
+物;もの / ブツ / モツ / Coisa;B4;;Kanji
+牛;うし / ギュウ / Vaca - Boi;B4;;Kanji
+馬;うま / バ / Cavalo;B4;;Kanji
+鳥;とり / チョウ / Pássaro ;B4;;Kanji
+魚;さかな / ギョ / Peixe;B4;;Kanji
+新;あたら(しい) / シン / Novo;B4;;Kanji
+古;ふる(い) / コ / Velho - Antigo;B4;;Kanji
+長;なが(い) / チョウ / Longo / Chefe;B4;;Kanji
+短;みじか(い) / タン / Curto;B4;;Kanji
+高;たか(い) / コウ / Alto - Caro;B4;;Kanji
+安;やす(い) / アン / Barato - Seguro;B4;;Kanji
+低;ひく(い) / テイ / Baixo;B4;;Kanji
+暗;くら(い) / アン / Escuro;B4;;Kanji
+多;おお(い) / タ / Muito;B4;;Kanji
+少;すく(ない) / すこし / ショウ / Pouco;B4;;Kanji
+行;い(く) / おこな(う) / こう / ギョウ / Ir / Executar - Fazer;B4;;Kanji
+来;く(る) / き(ます) / こ(ない) / ライ / Vir;B4;;Kanji
+帰; かえ(る) / キ / Voltar para a casa;B4;;Kanji
+食;た(べる) / く(う) / ショク / Comer;B4;;Kanji
+飲;の(む) / イン / Beber;B4;;Kanji
+読;よ(む) / ドク / Ler;B4;;Kanji
+書;か(く) / ショ / Escrever;B4;;Kanji
+話;はな(す) / ワ / Falar;B4;;Kanji
+見;み(る) / み(える) / み(せる) / ケン/ Ver;B4;;Kanji
+聞;き(く) / き(こえる) / ブン / Ouvir;B4;;Kanji
+買;蚊(う) / Comprar;B4;;Kanji
+売;う(る) / Vender;B4;;Kanji
+教;おし(える) / キョウ / Ensinar;B4;;Kanji
+会;あ(う) / カイ / Encontrar;B4;;Kanji
+思;おも(う) / シ / Achar - Pensar;B4;;Kanji
+朝;あさ / チョウ / Manhã ;B4;;Kanji
+昼;ひる / チュウ / Tarde;B4;;Kanji
+夜;よる / ヤ / Noite;B4;;Kanji
+晩;バン / Noite;B4;;Kanji
+午;ゴ / Meio -dia;B4;;Kanji
+前;まえ / ゼン / Em frente - Antes;B4;;Kanji
+後;あと / のち / うし(ろ) / Atrás - Depois;B4;;Kanji
+毎;マイ / Todo(s) - Toda(s);B4;;Kanji
+週;シュウ / Semana;B4;;Kanji
+曜;ヨウ / Dia da Semana;B4;;Kanji
+今;いま / コン / Agora;B4;;Kanji
+夕;ゆう / (セキ) / Entardecer;B4;;Kanji
+時;とき / ジ / Tempo;B4;;Kanji
+友;とも / コウ / Amigo;B4;;Kanji
+父;ちち / フ / Pai;B4;;Kanji
+母;はは / ボ / Mãe ;B4;;Kanji
+兄;あに / キョウ / Irmão mais velho;B4;;Kanji
+姉;あね / シ / Irmã mais velha;B4;;Kanji
+弟;おとうと / テイ / Irmão mais novo;B4;;Kanji
+妹;いもうと / マイ / Irmã mais nova;B4;;Kanji
+夫;おっと / フ / フウ / Marido;B4;;Kanji
+妻;つま / サイ / Esposa;B4;;Kanji
+彼;かれ / かの / ヒ / Ele;B4;;Kanji
+主;おも(な) / ぬし / Principal;B5;;Kanji
+主人;しゅじん /  Esposo (Próprio);B5;;Vocabulário
+持ち主;もち|ぬし / Proprietário ;B5;;Vocabulário
+奥;おく/ おく(さん) / Parte interna / Fundos / Esposa (do outro);B5;;Kanji
+家;いえ / Casa;B5;;Kanji
+家賃;やちん / Aluguel;B5;;Vocabulário
+家族;かぞく / Família ;B5;;Vocabulário
+国;くに / País ;B5;;Kanji
+中国 ;ちゅうごく / China;B5;;Vocabulário
+外国;がいこく/ País estrangeiro;B5;;Vocabulário
+町;まち / Cidade;B5;;Kanji
+下町;したまち / Parte antiga da cidade;B5;;Vocabulário
+町長;ちょうちょう / Prefeito;B5;;Vocabulário
+村;むら / Vilarejo;B5;;Kanji
+村人;むらびと / Morador da vila;B5;;Vocabulário
+村長;そんちょう / Chefe da vila;B5;;Vocabulário
+元;げん / がん / Base - início ;B5;;Kanji
+元々;もともと / Originalmente ;B5;;Vocabulário
+元気;げんき/ Sentir -se bem - saudável ;B5;;Vocabulário
+元日;がんじつ / Primeiro dia do ano;B5;;Vocabulário
+気;き/ Energia;B5;;Kanji
+空気;くうき / Ar;B5;;Vocabulário
+気分;きぶん / Humor - sensação ;B5;;Vocabulário
+電気;でんき / Eletricidade;B5;;Vocabulário
+天;てん / Céu ;B5;;Kanji
+天の川;あまのかわ / Via láctea ;B5;;Vocabulário
+天気;てんき / Tempo;B5;;Vocabulário
+天国;てんごく / Paraíso ;B5;;Vocabulário
+語;ご / Palavra - Idioma;B5;;Kanji
+語る;かたる / Narrar;B5;;Vocabulário
+物語;ものがたり / História;B5;;Vocabulário
+母国語;ぼごくご / Lingua materna;B5;;Vocabulário
+日本語;にほんご / Lingua japonesa;B5;;Vocabulário
+右;みぎ / Direita;B5;;Kanji
+右手;みぎて / Mão direita;B5;;Vocabulário
+右折;うせつ / Virar a direita;B5;;Vocabulário
+左;ひだり / Esquerda;B5;;Kanji
+左足;ひだりあし / Pé esquerdo;B5;;Vocabulário
+左側;ひだりがわ / Lado esquerdo;B5;;Vocabulário
+東; ひがし / Leste;B5;;Kanji
+東京;とうきょう / Tóquio;B5;;Vocabulário
+東口;ひがしぐち / Portão leste;B5;;Vocabulário
+西;にし / Oeste;B5;;Kanji
+西口;にしぐち / Portão oeste;B5;;Vocabulário
+関西;かんせい / Região do Japão;B5;;Vocabulário
+北;きた / Norte;B5;;Kanji
+北口;きたぐち / Portão norte;B5;;Vocabulário
+北海道;ほっかいど / Região do Japão;B5;;Vocabulário
+南;みなみ / Sul;B5;;Kanji
+南口;みなみぐち / Portão sul;B5;;Vocabulário
+東南アジア;とうなん / Sudeste asiático;B5;;Vocabulário
+外;そと /  はず（す）/ はず（れる）/ Lado de fora;B5;;Kanji
+外国人;がいごくじん / Estrangeiro;B5;;Vocabulário
+外す;はずす / Tirar (cinto);B5;;Vocabulário
+外食;がいしょく (Jantar fora);B5;;Vocabulário
+内; うち / Lado de dentro;B5;;Kanji
+家内;かない / Esposa;B5;;Vocabulário
+国内;こくない / Dentro do país;B5;;Vocabulário
+方;かた / Direção - pessoa - alternativa;B5;;Kanji
+夕方;ゆうがた / Entardecer;B5;;Vocabulário
+方法;ほうほう / Método - maneira;B5;;Vocabulário
+社;やしろ / Empresa - templo;B5;;Kanji
+会社;かいしゃ /  Empresa;B5;;Vocabulário
+社会;しゃかい / Sociedade;B5;;Vocabulário
+神社;じんじゃ / Templo xintoista;B5;;Vocabulário
+春;はる /  Primavera;B5;;Kanji
+青春;せいしゅん / Juventude;B5;;Vocabulário
+春分の不;しゅんぶんのひ / Equinócio de primavera;B5;;Vocabulário
+夏;なつ / Verão;B5;;Kanji
+夏休み;なつやすみ / Férias de verão;B5; ;Vocabulário
+秋;あき / Outono;B5;;Kanji
+秋分の日;しゅうぶんのひ / Equinócio de outono ;B5;;Vocabulário
+冬;ふゆ / Inverno;B5;;Kanji
+冬休み;ふゆやすみ / Férias de inverno;B5;;Vocabulário
+冬眠;とうみん / Hibernar;B5;;Vocabulário
+春夏秋冬;しゅんかしゅうとう / Estações;B5;;Vocabulário
+海;うい / Mar;B5;;Kanji
+海外;かいがい / Exterior;B5;;Vocabulário
+日本海 ;にほんかい / Mar do Japão;B5;;Vocabulário
+海岸;かいがん / Praia - Orla da praia;B5;;Vocabulário
+海水;かいすい / Água do mar;B5;;Vocabulário
+赤;あか(い) / Vermelho;B5;;Kanji
+赤道;せきどう (Linha do Equador);B5;;Vocabulário
+青;あお(い) / Azul;B5;;Kanji
+青年;せいねん / Jovem;B5;;Vocabulário
+白;しろ(い) / Branco;B5;;Kanji
+白烏;はくちょう / Cisne;B5;;Vocabulário
+空;そら / Céu / から / Vazio ;B5;;Kanji
+空席;くうせき / Assento vazio;B5;;Vocabulário
+英;えい / Inglaterra;B5;;Kanji
+英国;えいこく / Inglaterra;B5;;Vocabulário
+英語;えいご / Inglês (idioma);B5;;Vocabulário
+英会話;えいかいわ /  Conversação em inglês;B5;;Vocabulário
+才;さい / Idade - habilidade;B5;;Kanji
+天才;てんさい / Gênio ;B5;;Vocabulário
+才能;さいのう / Talento - habilidade;B5;;Vocabulário
+予;よ / Plano;B5;;Kanji
+予約;よやく / Reserva;B5;;Vocabulário
+予定;よてい / Plano;B5;;Vocabulário
+天気予報;てんきよほう / Previsão do tempo ;B5;;Vocabulário
+写;うつ(る) / Ser fotografado / うつ(す) / Transcrever - copiar ;B5;;Kanji
+写真;しゃしん / Foto;B5;;Vocabulário
+衣;ころも / Vestimenta;B5;;Kanji
+衣替え;ころもがえ / Mudança sazonal de roupa - uniforme;B5;;Vocabulário
+衣類;いるい / Roupa - vestuário ;B5;;Vocabulário
+衣装;いしょう / Fantasia - roupa;B5;;Vocabulário
+色;いろ / Cor;B5;;Kanji
+特色;とくしょく / Características ;B5;;Vocabulário
+原色;げんしょく / Cores primárias ;B5;;Vocabulário
+言;い(う) / Dizer;B5;;Kanji
+言語;げんご / Idioma;B5;;Vocabulário
+言葉;ことば / Palavra;B5;;Vocabulário
+伝言;でんごん / Recado;B5;;Vocabulário
+形;かたち / Forma;B5;;Kanji
+人形;にんぎよう / Boneca;B5;;Vocabulário
+円形;えんけい / Círculo;B5;;Vocabulário
+形式;けいしき (Formalidade);B5;;Vocabulário
+店;みせ / Loja;B5;;Kanji
+店員;てんいん / Vendedor;B5;;Vocabulário
+書店;しょてん / Livraria;B5;;Vocabulário
+本店;ほんてん  / Matriz;B5;;Vocabulário
+祝;いわ(う) / Comemorar;B5;;Kanji
+祝日;しゅくじつ / Feriado;B5;;Vocabulário
+約;やく / Aproximadamente - mais ou menos - promessa;B5;;Kanji
+約束;やくそく(する) / Prometer;B5;;Vocabulário
+予約;よやく (する) / Reservar;B5;;Vocabulário
+婚約;こんやく / Noivado;B5;;Vocabulário
+借;か(リる) / Pegar emprestado;B5;;Kanji
+借金;しゃっきん / Dívida;B5;;Vocabulário
+酒;さけ / Saquê - bebida alcoólica;B5;;Kanji
+酒屋;さかや / Loja de bebidas;B5;;Vocabulário
+日本酒;にほんしゅ / Saquê;B5;;Vocabulário
+真;ま / Real - verdade;B5;;Kanji
+真ん中;まんなか / Centro;B5;;Vocabulário
+真夜中;まよなか / Madrugada;B5;;Vocabulário
+真っ赤;まっか / Bem vermelho;B5;;Vocabulário
+絵;え / Pintura - desenho;B5;;Kanji
+油絵;あぶらえ / Pintura a óleo ;B5;;Vocabulário
+絵本;えほん / Livro ilustrado;B5;;Vocabulário
+絵画;かいが / Pintura - quadro;B5;;Vocabulário
+番;ばん / Número ;B5;;Kanji
+番号;ばんごう / Número ;B5;;Vocabulário
+番組;ばんぐみ / Programa;B5;;Vocabulário
+交番;こうばん / Posto policial;B5;;Vocabulário
+楽;たの / がく / らく / Alegre - confortável;B5;;Kanji
+音楽;おんがく / Música ;B5;;Vocabulário
+親;おや / した(しい) / Pais / Intimidade;B5;;Kanji
+親切;しんせつ / Gentil;B5;;Vocabulário
+親友;しんゆう / Amigo íntimo ;B5;;Vocabulário
+犬;いぬ / Cachorro;B5;;Kanji
+子犬;こいぬ / Cachorrinho;B5;;Vocabulário
+〜犬;けん / Raça;B5;;Vocabulário
+番犬;ばんけん / Cão de guarda;B5;;Vocabulário
+号;ごう / Número ;B5;;Kanji
+電話番号;でんわばんごう / Número de telefone;B5;;Vocabulário
+信号;しんごう / Sinal de trânsito ;B5;;Vocabulário
+記号;きごう / Símbolo ;B5;;Vocabulário
+朿;たば / そく / Ramalhete - maço;B5;;Kanji
+花朿;はなたば / Buquê de flores;B5;;Vocabulário
+約東;やくそく / Promessa - compromisso;B5;;Vocabulário
+黒;くろ(い) / Preto;B5;;Kanji
+黒板;こくばん / Quadro negro;B5;;Vocabulário
+黒字;くろじ / Superavit;B5;;Vocabulário
+黄;き / こ /  こう / おう / Amarelo;B5;;Kanji
+黄色;きいろ / Cor amarela;B5;;Vocabulário
+黄金色;おうんごんいろ / Dourado;B5;;Vocabulário
+客;きゃく / Cliente - visita;B5;;Kanji
+客間;きゃくま / Sala de visitas ;B5;;Vocabulário
+乗客;じょうきゃく / Passageiro;B5;;Vocabulário
+返;かえ / へん / Devolver;B5;;Kanji
+生き返る;いきかえる / Reviver;B5;;Vocabulário
+返事;へんじ / Resposta;B5;;Vocabulário
+送;おく /  そう / Enviar;B5;;Kanji
+送料;そうりょう / Taxa de envio;B5;;Vocabulário
+送別会;そうべつかい / Festa de despedida;B5;;Vocabulário
+資;か(す) /  (たい)  /  Enviar;B5;;Kanji
+貸し出す;かしだす / Alugar;B5;;Vocabulário
+貸家 ;かしや / Casa para alugar;B5;;Vocabulário
+太;ふと / たい / Grosso - engordar;B5;;Kanji
+太陽;たいよう / Sol;B5;;Vocabulário
+太平洋;たいへいよう / Oceano pacífico ;B5;;Vocabulário
+自;みずか / じ / Si mesmo;B5;;Kanji
+自分;じぶん / Si mesmo;B5;;Vocabulário
+自信;じしん / Autoconfiança ;B5;;Vocabulário
+自由;じゆう / Liberdade;B5;;Vocabulário
+自動車;じどうしゃ / Automóvel ;B5;;Vocabulário
+近;ちか(い) / Perto;B5;;Kanji
+近所;きんじょ / Vizinhança ;B5;;Vocabulário
+作;つく(る) /  Preparar - produzir;B5;;Kanji
+作文;さくぶん / Redação ;B5;;Vocabulário
+作家;さっか / Escritor;B5;;Vocabulário
+動作;どうさ / Movimento - ação ;B5;;Vocabulário
+事;こと / Coisa - assunto;B5;;Kanji
+仕事;しごと / Trabalho;B5;;Vocabulário
+食事;しょくじ / Refeição ;B5;;Vocabulário
+工事;こうじ / Obra (construção);B5;;Vocabulário
+油;あぶら / Óleo ;B5;;Kanji
+油絵;あぶらえ / Pintura a óleo ;B5;;Vocabulário
+石油;せきゆ / Petróleo ;B5;;Vocabulário
+味;あじ / Sabor;B5;;Kanji
+意味;いみ / Significado;B5;;Vocabulário
+趣味;しゅみ / Hobby;B5;;Vocabulário
+活;(い)きる / Vivaz;B5;;Kanji
+生活;せいかつ / Vida;B5;;Vocabulário
+活動;かつどう / Atividade;B5;;Vocabulário
+活気;かっき / Energia;B5;;Vocabulário
+活字;かつじ / Tipo (caractere) ;B5;;Vocabulário
+校;こう / Escola;B5;;Kanji
+学校;がっこう / Escola;B5;;Vocabulário
+校長;こうちょう / Diretor de escola;B5;;Vocabulário
+校庭;こうてい / Pátio escolar;B5;;Vocabulário
+料;りょう / Taxa - material;B5;;Kanji
+料金;りょうきん / Tarifa;B5;;Vocabulário
+料理;りょうり / Culinária ;B5;;Vocabulário
+材料;ざいりょう / Ingrediente;B5;;Vocabulário
+原料;げんりょう / Matéria -prima;B5;;Vocabulário
+理;り / Razão - lógica ;B5;;Kanji
+無理;むり / Impossível ;B5;;Vocabulário
+理由;りゆう / Motivo - razão ;B5;;Vocabulário
+物理;ぶつり / Física ;B5;;Vocabulário
+塩;しお / Sal;B5;;Kanji
+塩田;えんでん / Salinas;B5;;Vocabulário
+塩分;えんぶん / Quantidade de sal;B5;;Vocabulário
+遠;とお(い) / Longe - distante;B5;;Kanji
+遠足;えんそく / Excursão ;B5;;Vocabulário
+飯;めし - はん / Refeição - arroz;B5;;Kanji
+夕飯;ゆうはん / Jantar;B5;;Vocabulário
+昭;しょう / Brilhar;B5;;Kanji
+昭和;しょうわ / Era Showa;B5;;Vocabulário
+和;やわ(らぐ) / Acalmar -se / なご(やか) / Suave - meigo;B5;;Kanji
+和風;わふう / Estilo japonês ;B5;;Vocabulário
+京;きょう / けい / Capital;B5;;Kanji
+京都;きょうと / Quioto;B5;;Vocabulário
+上京;じょうきょう(する) / Ir para a capital;B5;;Vocabulário
+終;お(わる) / しゅう / Acabar - terminar;B5;;Kanji
+終業式;じゅうぎょうしき / Cerimônia de encerramento;B5;;Vocabulário
+動;うご(く) / Mover -se - mudar;B5;;Kanji
+動物;どうぶつ / Animal;B5;;Vocabulário
+自動詞;じどうし / Verbo intransitivo;B5;;Vocabulário
+園;ぞの / Jardim;B5;;Kanji
+花園;はなぞの / Jardim de flores;B5;;Vocabulário
+公園;こうえん / Parque;B5;;Vocabulário
+動物園;どうぶつえん / Jardim zoológico ;B5;;Vocabulário
+死;し / Morte;B5;;Kanji
+死体;したい / Cadáver ;B5;;Vocabulário
+死亡;しぼう / Morte;B5;;Vocabulário
+鼻;はな / び / Nariz;B5;;Kanji
+鼻血;はなじ / Sangue do nariz;B5;;Vocabulário
+耳鼻科;じびか / とう / どう / ず / Otorrinolaringologista ;B5;;Vocabulário
+頭;あたま / どう / とう / ず / Cabeça ;B5;;Kanji
+頭痛;ずつう / Dor de cabeça ;B5;;Vocabulário
+先頭;せんとう / Liderança ;B5;;Vocabulário
+考;かんが(える) / こう / Pensamento;B5;;Kanji
+思考;しこう / Pensamento;B5;;Vocabulário
+参考;さんこう / Referência ;B5;;Vocabulário
+考古学;こうこがく / Arqueologia ;B5;;Vocabulário
+所;ところ / しょ / Lugar;B5;;Kanji
+台所;だいどころ / Cozinha;B5;;Vocabulário
+場所;ばしょ / Lugar;B5;;Vocabulário
+遊;あそ(ぶ) / ゆう / Brincar;B5;;Kanji
+遊園地;ゆうえんち / Parque de diversões ;B5;;Vocabulário
+羽;は / はね / わ / Pena;B5;;Kanji
+一羽;いちわ / Um pássaro ;B5;;Vocabulário
+草;くさ / そう / Grama capim;B5;;Kanji
+草木;くさき / Vegetação ;B5;;Vocabulário
+草食;そうしょく / Herbívoro;B5;;Vocabulário
+草原;そうげん / Pradaria - savana;B5;;Vocabulário
+待;ま(つ) / Esperar;B5;;Kanji
+待合室;まちあいしつ / Sala de espera;B5;;Vocabulário
+招待;しょうたい(する) / Convidar;B5;;Vocabulário
+次;つぎ / じ / Próximo ;B5;;Kanji
+次男;じなん / Segundo filho;B5;;Vocabulário
+目次;もくじ / Índice ;B5;;Vocabulário
+数;かず / かそ(える) / すう / Número - quantidade ;B5;;Kanji
+数学;すうがく / Matemática ;B5;;Vocabulário
+数字;すうじ / Número ;B5;;Vocabulário
+光;ひかり / こう / Brilho - luz;B5;;Kanji
+観光;かんこう / Turismo;B5;;Vocabulário
+度;ど / Grau - n° de vezes;B5;;Kanji
+温度;おんど / Temperatura;B5;;Vocabulário
+一度;いちど / Uma vez;B5;;Vocabulário
+速度;そくど / Velocidade;B5;;Vocabulário
+野;の / や / Campo;B5;;Kanji
+野原;のはら / Campo;B5;;Vocabulário
+野球;やきゅう / Beisebol;B5;;Vocabulário
+野鳥;やちょう / Pássaro selvagem;B5;;Vocabulário
+声;こえ / せい / Voz;B5;;Kanji
+大声;おおごえ / Voz alta;B5;;Vocabulário
+急;いそ(ぐ) / きゅう / Urgência - emergência ;B5;;Kanji
+急行;きゅうこう / Expresso (trem);B5;;Vocabulário
+正;ただ(しい) / せい / しょう / Correto;B5;;Kanji
+正午;しょうご / Meio -dia;B5;;Vocabulário
+正解;せいかい / Correto;B5;;Vocabulário
+台;だい / たい / Suporte;B6;;Kanji
+台所; だいどころ / Cozinha;B6;;Vocabulário
+一台;いちだい / Uma máquina;B6;;Vocabulário
+台風;たいふう / Tufão;B6;;Vocabulário
+用;もち(いる) / Usar - utilizar;B6;;Kanji
+用事;ようじ / Tarefa;B6;;Vocabulário
+用語;ようご / Terminologia;B6;;Vocabulário
+回;まわ(る) / かい / Vezes - voltas;B6;;Kanji
+回す;まわ(す) / Girar - virar;B6;;Vocabulário
+一回;いっかい / Uma vez;B6;;Vocabulário
+回数;かいすう / Número de vezes;B6;;Vocabulário
+困;こま(る) / こん / Ficar em apuros;B6;;Kanji
+困難;こんなん / Dificuldade;B6;;Vocabulário
+使;つか(う) / Usar - utilizar;B6;;Kanji
+使い方;つか(い)かた / Modo de usar;B6;;Vocabulário
+使用;しよう / Uso;B6;;Vocabulário
+大使;たい(し) / Embaixador;B6;;Vocabulário
+昨;さく / Ontem - anterior;B6;;Kanji
+昨日;さくじつ / Ontem;B6;;Vocabulário
+昨年;さくねん / Ano passado;B6;;Vocabulário
+昨夜;さくや / Noite passada;B6;;Vocabulário
+品;しな / Produto - artigo;B6;;Kanji
+品物;しなもの / Produto;B6;;Vocabulário
+食料品;しょくりょうひん / Gêneros alimentícios;B6;;Vocabulário
+商品;しょうひん / Mercadoria;B6;;Vocabulário
+員;いん / Funcionário;B6;;Kanji
+会員;かいいん / Associado - membro;B6;;Vocabulário
+店員;てんいん / Funcionário de loja;B6;;Vocabulário
+社員;しゃいん / Funcionário de empresa;B6;;Vocabulário
+弱;よわ(い) / じゃく / Fraco;B6;;Kanji
+弱虫;よわむし / Covarde;B6;;Vocabulário
+弱点;じゃくてん / Ponto fraco;B6;;Vocabulário
+場;ば / じょう / Lugar;B6;;Kanji
+場所;ばしょ / Lugar;B6;;Vocabulário
+広場;ひろば / Praça - largo;B6;;Vocabulário
+飛行場;ひこうじょう / Aeroporto;B6;;Vocabulário
+電;でん / Eletricidade;B6;;Kanji
+電気;でんき / Eletricidade;B6;;Vocabulário
+電話;でんわ / Telefone;B6;;Vocabulário
+電車;でんしゃ / Trem;B6;;Vocabulário
+算;さん / Cálculo;B6;;Kanji
+計算;けいさん / Cáluclo;B6;;Vocabulário
+算数;さんすう / Aritmética;B6;;Vocabulário
+予算;よさん / Orçamento;B6;;Vocabulário
+器;うつわ / き / Recipiente - utensílio;B6;;Kanji
+食器;しょっき / Louça;B6;;Vocabulário
+楽器;がっき / Instrumento musical;B6;;Vocabulário
+入;はい(る) / い(れる) / Entrar - inserir;B6;;Kanji
+入口;いりぐち / Entrada ;B6;;Vocabulário
+入院する;にゅういんする /  Hospitalizar;B6;;Vocabulário
+出;で(る) / だ(す) / しゅつ / Sair - tirar;B6;;Kanji
+出口;でぐち / Saída;B6;;Vocabulário
+出発する;しゅっぱつする / Partir;B6;;Vocabulário
+止;と(まる) / と(める) /  し / Parar;B6;;Kanji
+中止する;ちゅうしする / Suspender;B6;;Vocabulário
+雪;ゆき / せつ / Neve;B6;;Kanji
+雲;くも / うん / Nuvem;B6;;Kanji
+降;お(りる) / お(ろす) / ふ(る) / こう / Entrar - inserir;B6;;Kanji
+雨が降る;あめがふる / Chover;B6;;Vocabulário
+雪が降る;ゆきがふる / Nevar;B6;;Vocabulário
+バスを降;バスおりる / Desembarcar do ônibus;B6;;Vocabulário
+着;き(る) / つ(く) / ちゃく / Vestir - chegar;B6;;Kanji
+着物;きもの / Quimono;B6;;Vocabulário
+到着;とうちゃく / Chegada;B6;;Vocabulário
+荷;に / か / Bagagem ;B6;;Kanji
+荷物;にもつ / Bagagem;B6;;Vocabulário
+選;えら(ぶ) / せん / Escolher;B6;;Kanji
+選手;せんしゅ / Atleta - jogador;B6;;Vocabulário
+選挙;せんきょ / Eleição;B6;;Vocabulário
+心;こころ / しん / Coração;B6;;Kanji
+心理学;しんりがく / Psicologia;B6;;Vocabulário
+心配する;しんぱいする / Preocupar -se;B6;;Vocabulário
+心臓;しんぞう / Coração (orgão);B6;;Vocabulário
+世;よ / せ / せい /  Mundo - sociedade - geração;B6;;Kanji
+世界;せかい / Mundo ;B6;;Vocabulário
+二十一 世紀;にじゅういっせいき / Século 21;B6;;Vocabulário
+世代;せだい / Geração;B6;;Vocabulário
+立;た(つ) / た(てる) / た(ち) / りつ / Levantar ;B6;;Kanji
+立場;たちば / Posição;B6;;Vocabulário
+国立公園;こくりつこうえん / Parque nacional;B6;;Vocabulário
+当;あ(てる) / あ(たる) / とう / Acertar;B6;;Kanji
+本当;ほんとう / Verdadeiro - real;B6;;Vocabulário
+手当;てあて / Tratamento;B6;;Vocabulário
+当番;とうばん / Turno - vez;B6;;Vocabulário
+両;りょう / Ambos;B6;;Kanji
+両親;りょうしん / Pais;B6;;Vocabulário
+両方;りょうほう / Ambos;B6;;Vocabulário
+両替;りょうがえ / Câmbio;B6;;Vocabulário
+有;あ(る) / ゆう / Haver - existir;B6;;Kanji
+有名;ゆうめいな / Famoso;B6;;Vocabulário
+有力;ゆうりょくな / Influente;B6;;Vocabulário
+所有;しょゆうする / Possuir ;B6;;Vocabulário
+利;き(く) / り / Vantagem - ganho / Ser eficiente;B6;;Kanji
+左利き;ひだりきき / Canhoto;B6;;Vocabulário
+利子;りし / Juro;B6;;Vocabulário
+利用する;りようする / Usar - aproveitar;B6;;Vocabulário
+役;やく / Levantar -se;B6;;Kanji
+主役;しゅやく / Protagonista;B6;;Vocabulário
+役に立つ ;やくにたつ / Ser útil;B6;;Vocabulário
+役目;やくめ / Papel - função;B6;;Vocabulário
+画;が / かく / Pintura - desenho;B6;;Kanji
+画家;がか / Pintor;B6;;Vocabulário
+日本画;にほんが / Pintura japonesa;B6;;Vocabulário
+画数;かくすう / Número de traços;B6;;Vocabulário
+映画;えいが / Filme - cinema;B6;;Vocabulário
+周;まわり / しゅう / Circunfêrencia;B6;;Kanji
+周り;まわり / Arredores - adjacências;B6;;Vocabulário
+一周;いっしゅう / Uma volta;B6;;Vocabulário
+宝;たから / ほう / Tesouro;B6;;Kanji
+宝くじ;たからくじ / Loteria;B6;;Vocabulário
+宝石;ほうせき / Pedra preciosa - jóia;B6;;Vocabulário
+界;かい / Mundo;B6;;Kanji
+世界;せかい / Mundo ;B6;;Vocabulário
+計;はかる / けい / Medir ;B6;;Kanji
+時計;とけい / Relógio;B6;;Vocabulário
+計画;けいかく(する) / Planejar;B6;;Vocabulário
+体温計;たいおんけい / Termômetro;B6;;Vocabulário
+旅;たび / りょ / Viagem;B6;;Kanji
+旅行;りょこう(する) / Viajar;B6;;Vocabulário
+旅費;りょひ / Despesas de viagem;B6;;Vocabulário
+旅館;りょかん / Hotel (Estilo japonês);B6;;Vocabulário
+勉;べん / Esforço - empenho;B6;;Kanji
+勉強;べんきょう(する) / Estudar;B6;;Vocabulário
+強;つよ(い) / きょう / Forte;B6;;Kanji
+強さ;つよ(さ) / Força;B6;;Vocabulário
+強調;きょうちょう(する) / Enfatizar;B6;;Vocabulário
+配;くば(る) / はい / Distribuir;B6;;Kanji
+配達;はいたつ(する) / Entregar;B6;;Vocabulário
+授;さず(ける) / さず(かる) / じゅ / Conceder - outorgar - ensinar;B6;;Kanji
+授業;じゅぎょう / Aula;B6;;Vocabulário
+業;わざ / ぎょう / Arte - performance;B6;;Kanji
+工業;こうぎょう / Indústria;B6;;Vocabulário
+商業;しょうぎょう / Comércio;B6;;Vocabulário
+農業;のうぎょう / Agricultura;B6;;Vocabulário
+卒業;そつぎょう(する) / Formar -se;B6;;Vocabulário
+続;つづ(く) / つづ(ける) / ぞく / Continuar;B6;;Kanji
+相続;そうぞく(する) / Herdar;B6;;Vocabulário
+続き;つづ(き) / Sequência - continuação;B6;;Vocabulário
+名;な / めい / みょう / Nome;B6;;Kanji
+名前;なまえ / Nome;B6;;Vocabulário
+名古屋;なごや / Nagoya;B6;;Vocabulário
+有名;ゆうめい(な) / Famoso;B6;;Vocabulário
+名字;みょうじ / Sobrenome;B6;;Vocabulário
+留;とめ(る) / とま(る) / りゅう / Ficar - permanecer ;B6;;Kanji
+書留;かきとめ / Encomenda registrada;B6;;Vocabulário
+留める;と(める) / Fixar;B6;;Vocabulário
+留学;りゅうがく(する) / Estudar no exterior ;B6;;Vocabulário
+研;と(ぐ) / けん / Afiar - amolar;B6;;Kanji
+研究;けんきゅう(する) / Pesquisar;B6;;Vocabulário
+研修生;けんしゅうせい / Estagiário;B6;;Vocabulário
+究;きわ(める) / きゅう / Estudar - pesquisar;B6;;Kanji
+研究所;けんきゅうじょ / Instituto de pesquisa;B6;;Vocabulário
+研究者;けんきゅうしゃ / Pesquisador;B6;;Vocabulário
+渋;しぶ(い) / じゅう / Amargo - adstringente;B6;;Kanji
+渋谷;しぶや / Shibuya;B6;;Vocabulário
+渋滞;じゅうたい(する) / Congestionar;B6;;Vocabulário
+谷;たに / こう / Vale;B6;;Kanji
+谷間;たにま / Abismo;B6;;Vocabulário
+駅;えき / Estação;B6;;Kanji
+駅員;えきいん / Funcionário da estação;B6;;Vocabulário
+駅前;えきまえ / Em frente à estação;B6;;Vocabulário
+供;とも / きょう / ぐ / Acompanhar - oferecer;B6;;Kanji
+子供;こども / Criança;B6;;Vocabulário
+供給;きょうきゅう / Fornecimento;B6;;Vocabulário
+提供;ていきょう / Patrocínio;B6;;Vocabulário
+風;かぜ / ふう / Vento;B6;;Kanji
+風船;ふうせん / Balão - bexiga;B6;;Vocabulário
+島;しま / とう / Ilha;B6;;Kanji
+広島;ひろしま / Hiroshima;B6;;Vocabulário
+半島;はんとう / Península;B6;;Vocabulário
+イースター島;イースターとう / Ilha de Páscoa;B6;;Vocabulário
+郎;ろう / Filho;B6;;Kanji
+一郎;いちろう / Ichiro (nome);B6;;Vocabulário
+通;とお(る) / かよ(う) / つう / Passar - ir diretamente;B6;;Kanji
+大通り;おおどお(り) / Avenida;B6;;Vocabulário
+通信;つうしん / Correspondência;B6;;Vocabulário
+引;ひ(く) / ひ(き) / いん / Puxar - arrastar;B6;;Kanji
+引き出し;ひきだし / Gaveta;B6;;Vocabulário
+引力;いんりょく / Força de atração;B6;;Vocabulário
+引用;いんよう / Citação - referência;B6;;Vocabulário
+達;だち -  達(する) / Alcançar - atingir;B6;;Kanji
+友達;ともだち / Amigo;B6;;Vocabulário
+発達;はったつ / Desenvolvimento;B6;;Vocabulário
+罪;つみ / ざい / Crime - pesado;B6;;Kanji
+罪人;ざいにん / Criminoso;B6;;Vocabulário
+犯罪;はんざい / Crime;B6;;Vocabulário
+代;か(わる) / か(わり) / だい / Substituição - era - tarifa - período;B6;;Kanji
+時代;じだい / Era;B6;;Vocabulário
+現代;げんだい / Atual;B6;;Vocabulário
+近代的;きんだいてき / Moderno;B6;;Vocabulário
+代わりに;かわりに / Em vez de - no lugar de;B6;;Vocabulário
+喜;よろこ(ぶ) / き / Alegria;B6;;Kanji
+喜劇;きげき / Comédia;B6;;Vocabulário
+助;たす(ける) / たす(かる) / じょ / Ajudar - salvar;B6;;Kanji
+助手;じょしゅ / Ajudante;B6;;Vocabulário
+持;も(つ) / も(ち) / じ / Segurar - possuir;B6;;Kanji
+気持ち;きもち / Sentimento;B6;;Vocabulário
+金持ち;かねもち / Rico;B6;;Vocabulário
+持続;じぞくする / Continuar;B6;;Vocabulário
+早;はや(い) / そう / Cedo;B6;;Kanji
+早口;はやくち / Trava -língua;B6;;Vocabulário
+早朝;そうちょう / De manhã cedo;B6;;Vocabulário
+早速;さっそく / Imediatamente;B6;;Vocabulário
+船;ふね / せん / Navio;B6;;Kanji
+船便;ふなびん / Vila Marítima ;B6;;Vocabulário
+船員;せんいん / Marinheiro;B6;;Vocabulário
+首;くび / しゅ / Pescoço;B6;;Kanji
+首輪;くびわ / Coleira;B6;;Vocabulário
+首都;しゅと / Capital;B6;;Vocabulário
+恩;おん / Benção - bondade - misericórdia;B6;;Kanji
+恩人;おんじん / Benfeitor;B6;;Vocabulário
+恩返し;おんがえし / Retribuição do favor;B6;;Vocabulário
+決;き(める) / き(まる) / けつ / Decidir - determinar ;B6;;Kanji
+決心;けっしん / Resolução;B6;;Vocabulário
+決勝;けっしょう / Final (jogo);B6;;Vocabulário
+礼;(お)れい / Agradecimento;B6;;Kanji
+礼儀;れいぎ / Etiqueta - boas maneiras;B6;;Vocabulário
+失礼;しつれい / Grosseria - indelicadeza;B6;;Vocabulário
+宮;みや / せん / きゅう / く / ぐう / Templo xintoísta - palácio - princesa;B6;;Kanji
+宮殿;きゅうでん / Palácio;B6;;Vocabulário
+神宮;じんぐう / Templo xintoísta;B6;;Vocabulário
+連;つ(れる) / つら(ねる) / つら(なる) / れん / Levar;B6;;Kanji
+連れて行く ;つれていく / Levar alguém;B6;;Vocabulário
+連絡;れんらく / Comunicar - ligar - entrar em contato;B6;;Vocabulário
+背;せ / はい / Costas - estatura - alta;B6;;Kanji
+背中;せなか / Costas;B6;;Vocabulário
+背広;せびろ / Terno;B6;;Vocabulário
+背骨;せぼね / Coluna vertebral;B6;;Vocabulário
+乗;の(る) / しゅう / Montar - embarcar - subir ;B6;;Kanji
+乗り物;のりもの / Meio de transporte;B6;;Vocabulário
+乗客;じょうきゃく / Passageiro;B6;;Vocabulário
+玉;たま / ぎょく / Bola - jóia;B6;;Kanji
+目玉;めだま / Globo ocular;B6;;Vocabulário
+シャボン玉;シャボンだま / Bolinha de sabão;B6;;Vocabulário
+様;さま / よう / Aspecto - Estado - honorífico;B6;;Kanji
+田中様;たなかさま / Tanaka -sama;B6;;Vocabulário
+王様;おうさま / Rei;B6;;Vocabulário
+様子;ようす / Estado - situação;B6;;Vocabulário
+変;か(える) / か(わる) / へん / Mudar - estranho;B6;;Kanji
+変化 ;へんか / Mudança;B6;;Vocabulário
+変;へんな / Estranho;B6;;Kanji
+類;るい / Variedade - classe - tipo - gênero;B6;;Kanji
+種類;しゅるい / Tipo - variedade;B6;;Vocabulário
+人類学;じんるいがく / Antropologia;B6;;Vocabulário
+親類;しんるい / Parente;B6;;Vocabulário
+悲;かな(しい) / はな(しむ) / Triste - pesar;B6;;Kanji
+悲運;ひうん / Má sorte;B6;;Vocabulário
+悲しさ;かなしさ / Tristeza;B6;;Vocabulário
+悲観;ひかん / Desânimo;B6;;Vocabulário
+若;わか(い) / わか(さ) / じゃく / Jovem;B6;;Kanji
+若さ;わか(さ) / Juventude;B6;;Vocabulário
+若年;じゃくねん / Juventude;B6;;Vocabulário
+病;やまい / びょう / Doença;I1;;Kanji
+病気;びょうき / Doença;I1;;Vocabulário
+病院;びょういん / Hospital;I1;;Vocabulário
+病人;びょうにん / Paciente - doente;I1;;Vocabulário
+院;いん / Instituição - templo;I1;;Kanji
+入院する;にゅういん / Internar;I1;;Vocabulário
+大学院;だいがくいん / Pós -graduação;I1;;Vocabulário
+平等院;びょうどういん / Nome de um templo budista;I1;;Vocabulário
+医;い / Medicina;I1;;Kanji
+医者;いしゃ / Médico;I1;;Vocabulário
+医学;いがく / Medicina;I1;;Vocabulário
+者;もの / しゃ / Pessoa;I1;;Kanji
+学者;がくしゃ / Erudito;I1;;Vocabulário
+司会者;しかいしゃ / Apresentador;I1;;Vocabulário
+痛;いた(い)  / いた(む) / つう / Dor - doer - dolorido - doloroso;I1;;Kanji
+痛み止め;いたみどめ / Analgésico;I1;;Vocabulário
+頭痛;ずつう / Dor de cabeça;I1;;Vocabulário
+科;か / Departamento - seção;I1;;Kanji
+科学;かがく / Ciências;I1;;Vocabulário
+外科医;げかい / Cirurgião;I1;;Vocabulário
+教科書;きょうかしょ / Livro didático;I1;;Vocabulário
+胃;い / Estômago;I1;;Kanji
+胃炎;いえん / Gastrite;I1;;Vocabulário
+血;ち / けつ / Sangue;I1;;Kanji
+血液;けつえき/ Sangue;I1;;Vocabulário
+血圧;けつあつ / Pressão sanguínea;I1;;Vocabulário
+原;はら / げん / Campo - original;I1;;Kanji
+野原;のはら / Campo;I1;;Vocabulário
+原子;げんし / Átomo;I1;;Vocabulário
+原因;げんいん / Causa - razão;I1;;Vocabulário
+因;いん / Causa - motivo;I1;;Kanji
+原因;げんいん / Causa - motivo;I1;;Vocabulário
+歯;は / し / Dente;I1;;Kanji
+歯医者;はいしゃ / Dentista;I1;;Vocabulário
+顔;かお / がん / Rosto;I1;;Kanji
+顔色;かおいろ / Semblante;I1;;Vocabulário
+洗顔する;せんがん / Lavar o rosto;I1;;Vocabulário
+薬;くすり / やく / Remédio;I1;;Kanji
+薬屋;くすりや / Farmácia;I1;;Vocabulário
+目薬;めぐすり / Colírio;I1;;Vocabulário
+局;きょく / Repartição;I1;;Kanji
+電話局;でんわきょく / Companhia telefônica;I1;;Vocabulário
+薬局;やっきょく / Farmácia;I1;;Vocabulário
+無;な(い) / む / ぶ / Nada - inexistente;I1;;Kanji
+無理;むり / Impossível;I1;;Vocabulário
+無事;ぶじ / Segurança;I1;;Vocabulário
+起;お(きる) / お(こす) / お(こる) / き / Acordar - acontecer;I1;;Kanji
+疲;つか(れる) / ひ / Cansar - cansar -se;I1;;Kanji
+働;はたら(く) / どう / Trabalhar;I1;;Kanji
+労働者;ろうどうしゃ / Trabalhador;I1;;Vocabulário
+切;き(る) / せつ / Cortar;I1;;Kanji
+切手;きって / Selo;I1;;Vocabulário
+切符;きっぷ / Bilhete;I1;;Vocabulário
+大切;たいせつ / Importante;I1;;Vocabulário
+寝;ね(る) / しん / Dormir;I1;;Kanji
+昼寝 ;ひるね / Sesta;I1;;Vocabulário
+寝室;しんしつ / Quarto de dormir;I1;;Vocabulário
+温;あたた(かい) / あたた(める) / あたた(まる) / Morno - aquecer;I1;;Kanji
+温度;おんど / Temperatura;I1;;Vocabulário
+温室;おんしつ / Estufa;I1;;Vocabulário
+熱;あつ(い) / ねつ / Quente - febre;I1;;Kanji
+熱心;ねっしん / Paixão - empolgação;I1;;Vocabulário
+住;す(む) / じゅう / Morar;I1;;Kanji
+住宅;じゅうたく / Residência;I1;;Vocabulário
+住所;じゅうしょ / Endereço;I1;;Vocabulário
+開;あ(く) / あ(ける) / ひら(く) / ひら(ける) / かい / Abrir;I1;;Kanji
+開店;かいてん / Inauguração de loja;I1;;Vocabulário
+閉;"し(める) / し(まる) / と(じる) / Fechar
+";I1;;Kanji
+閉会;へいかい / Encerrar sessão;I1;;Vocabulário
+晴;は(れ) / は(れる) / せい / Tempo bom - ensolarado - clarear;I1;;Kanji
+集;あつ(まる) / あつ(める) / しゅう / Juntar - reunir ;I1;;Kanji
+集合;しゅうごう / Encontro - reunião;I1;;Vocabulário
+集中;しゅうちゅう / Concentração;I1;;Vocabulário
+屋;や / おく / Telhado - loja - casa;I1;;Kanji
+肉屋;にくや / Açougue;I1;;Vocabulário
+花屋;はなや / Floricultura;I1;;Vocabulário
+屋上;おくじょう / Terraço;I1;;Vocabulário
+商;しょう / Comércio - negócio;I1;;Kanji
+商品 ;しょうひん / Mercadoria;I1;;Vocabulário
+商売 ;しょうばい / Comércio;I1;;Vocabulário
+商店;しょうてん / Loja;I1;;Vocabulário
+館;かん / Prédio grande;I1;;Kanji
+映画館;えいがかん / Cinema;I1;;Vocabulário
+大使館 ;たいしかん / Embaixada;I1;;Vocabulário
+図書館;としょかん / Biblioteca;I1;;Vocabulário
+寺;てら / じ / Templo budista;I1;;Kanji
+東大寺;とうだいじ / Templo Toudaiji;I1;;Vocabulário
+階;かい / Andares;I1;;Kanji
+一階;いっかい / Primeiro andar;I1;;Vocabulário
+階段;かいだん / Escada;I1;;Vocabulário
+段階;だんかい / Etapa - fase;I1;;Vocabulário
+不;ふ / ぶ / Prefixo de negação;I1;;Kanji
+不便;ふべん / Inconveniente;I1;;Vocabulário
+不運;ふうん / Má sorte;I1;;Vocabulário
+不足する;ふそく / Faltar;I1;;Vocabulário
+便;たよ(り) / べん / びん / Conveniência - notícia - correspondência;I1;;Kanji
+便利;べんり / Pático - útil;I1;;Vocabulário
+航空便;こうくうびん / Via aérea;I1;;Vocabulário
+公;おおやけ / こう / Público;I1;;Kanji
+公園;こうえん / Parque;I1;;Vocabulário
+公立;こうりつ / Público;I1;;Vocabulário
+公開;こうかい / Abrir ao público;I1;;Vocabulário
+族;ぞく / Família;I1;;Kanji
+家族;かぞく / Família;I1;;Vocabulário
+民族;みんぞく / Etnia;I1;;Vocabulário
+図;ず / と / Mapa - plano;I1;;Kanji
+図書館;としょかん / Biblioteca;I1;;Vocabulário
+地図;ちず / Mapa;I1;;Vocabulário
+市;いち / し / Cidade;I1;;Kanji
+市民;しみん / Cidadão;I1;;Vocabulário
+市立;しりつ / Município;I1;;Vocabulário
+市場;いちば・しじょう / Mercado;I1;;Vocabulário
+交;ま(じる) / まじ(わる) / ま(ぜる) / ま(ざる) / こう / Misturar / ;I1;;Kanji
+交通;こうつう / Trânsito;I1;;Vocabulário
+外交;がいこう / Diplomacia;I1;;Vocabulário
+宅;たく / Casa - residência;I1;;Kanji
+自宅;じたく/ A própria residência;I1;;Vocabulário
+帰宅する;きたく / Voltar para casa;I1;;Vocabulário
+民;たみ / みん / Povo - nação;I1;;Kanji
+国民;こくみん / Povo ;I1;;Vocabulário
+部;ぶ / Departamento - parte;I1;;Kanji
+全部;ぜんぶ  / Tudo;I1;;Vocabulário
+営業部;"えいぎょうぶ / Departamento comercial
+";I1;;Vocabulário
+部屋;へや / Cômodo - quarto;I1;;Vocabulário
+静;しず(か) / しず(まる) / せい / Tranquilo;I1;;Kanji
+安静;あんせい / Repouso;I1;;Vocabulário
+広;ひろ(い) / こう / Amplo - espaçoso;I1;;Kanji
+広告;こうこく / Propaganda;I1;;Vocabulário
+知;し(る) / ち / Conhecer - saber;I1;;Kanji
+知人;ちじん / Conhecido;I1;;Vocabulário
+知識;ちしき / Conhecimento;I1;;Vocabulário
+知らせる;しらせる / Informar;I1;;Vocabulário
+速;はや(い) / そく / Rápido;I1;;Kanji
+速度;そくど / Velocidade;I1;;Vocabulário
+早速;さっそく/ Imediatamente;I1;;Vocabulário
+仕;つか(える) / し / Servir - atender;I1;;Kanji
+仕事;しごと / Serviço - trabalho;I1;;Vocabulário
+仕方;しかた / Modo - maneira;I1;;Vocabulário
+仕上げる;しあげる / Finalizar;I1;;Vocabulário
+砂;すな / さ / Areia;I1;;Kanji
+砂時計;すなどけい / Ampulheta;I1;;Vocabulário
+砂漠;さばく / Deserto;I1;;Vocabulário
+落;お(ちる) / お(とす) / らく / Cair;I1;;Kanji
+落第;らくだい / Ser reprovado;I1;;Vocabulário
+落下;らっか / Queda;I1;;Vocabulário
+桃;もも / とう / Pêssego ;I1;;Kanji
+桃色;ももいろ / Cor de rosa;I1;;Vocabulário
+刀;かたな / とう / Espada;I1;;Kanji
+板;いた / ばん / Tábua;I1;;Kanji
+道;みち / どう / Caminho - rua;I1;;Kanji
+道具;どうぐ / Ferramentas;I1;;Vocabulário
+柔道;じゅうどう / Judô;I1;;Vocabulário
+舟;ふね / しゅう / Barco - bote;I1;;Kanji
+流;なが(れる) / なが(す) / りゅう / Fluir - escorrer;I1;;Kanji
+流行;りゅうこう / Estar na moda;I1;;Vocabulário
+育;まけ(る) / お(う) / ふ / ぶ / Perder - assumir responsabilidade;I1;;Kanji
+勝負;しょうぶ / Vitória ou derrota;I1;;Vocabulário
+答;こた(える) / こた(え) / とう / Resposta;I1;;Kanji
+解答;かいとう / Resposta - solução;I1;;Vocabulário
+追;お(う) / つい / Perseguir;I1;;Kanji
+追及;ついきゅう / Procura - busca;I1;;Vocabulário
+泳;およ(ぐ) / えい / Nadar;I1;;Kanji
+水泳;すいえい / Natação;I1;;Vocabulário
+戦;たたか(う) / せん / Lutar - combater;I1;;Kanji
+戦争;せんそう / Guerra;I1;;Vocabulário
+作戦;さくせん / Tática - estratégia;I1;;Vocabulário
+登;のぼ(る) / とう / と / Subir - escalar;I1;;Kanji
+登山;とざん / Alpinismo;I1;;Vocabulário
+木登り;きのぼり / Subir em árvores;I1;;Vocabulário
+取;と(る) / しゅ / Pegar - tirar;I1;;Kanji
+受け取る;うけとる / Receber;I1;;Vocabulário
+頭取;とうどり / Presidente do banco;I1;;Vocabulário
+向;む(かう) / む(ける) / む(こう) / む(き) / こう / Longíquo - virar;I1;;Kanji
+向こう側;むこうがわ / Do outro lado;I1;;Vocabulário
+方向;ほうこう / Direção;I1;;Vocabulário
+城;しろ / じょう / Castelo;I1;;Kanji
+大阪城;おおさかじょう / Castelo de Osaka;I1;;Vocabulário
+発;はつ / Partida;I1;;Kanji
+発音;はつおん / Pronúncia;I1;;Vocabulário
+出発;しゅっぱつ / Partida;I1;;Vocabulário
+発見;はっけん / Descoberta;I1;;Vocabulário
+工;こう / く /  Artesão;I1;;Kanji
+工事;こうじ / Obra;I1;;Vocabulário
+大工;だいく / Carpinteiro;I1;;Vocabulário
+工場;こうじょう / Fábrica;I1;;Vocabulário
+悪;わる(い) / あく / Mau - ruim;I1;;Kanji
+悪人 ;あくにん / Pessoa má - vilão;I1;;Vocabulário
+悪事;あくじ / Crime;I1;;Vocabulário
+幸;しあわ(せ) / さいわ(い) / こう / Felicidade - felizmente;I1;;Kanji
+幸福;こうふく / Felicidade;I1;;Vocabulário
+幸運;"こううん / Sorte
+";I1;;Vocabulário
+鬼;おに / き / Ogro;I1;;Kanji
+意;い / Pensamento - sentimento;I1;;Kanji
+意味;いみ / Significado;I1;;Vocabulário
+意見;いけん / Opinião;I1;;Vocabulário
+注意;ちゅうい / Atenção;I1;;Vocabulário
+杯;さかずき / はい / Taça;I1;;Kanji
+一杯;いっぱい / Medida de uma xícara - copo;I1;;Vocabulário
+乾杯;かんぱい / Saúde (brinde);I1;;Vocabulário
+匹;ひき / Contagem de animais pequenos ;I1;;Kanji
+一匹;いっぴき / Um animal pequeno;I1;;Vocabulário
